@@ -1,0 +1,10 @@
+{
+    "votos":{
+        "candidato1": 1,
+        "candidato2": 4,
+        "candidato3": 9,
+        "candidato4": 16,
+        "candidato5": 25,
+        
+    }
+}
